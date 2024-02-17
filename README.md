@@ -1,4 +1,4 @@
-<h2>👋 Olá, meu nome é Laisanha!</h2>
+<h2>👋 Olá, meu nome é Laísa Rafaella!</h2>
 👀 Tentando ser alguém <br><br>
 🌱 Atualmente cursando Ensino Médio + Técnico em Informática. <br><br>
 🏀 Interesse em esportes. 
