@@ -1,4 +1,4 @@
-<h2>👋 Olá, meu nome é Laísa Rafaella!</h2>
+<h2>👋 Oie, sou a Laísa Rafaella!</h2>
 👀 Tentando ser alguém <br><br>
 🌱 Atualmente cursando Ensino Médio + Técnico em Informática <br><br>
 🏀 Interesse em esportes
@@ -11,7 +11,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisarafaella&layout=compact&langs_count=16&theme=dark"/>
   </div>
   
-  <h4>Linguagens em aprendizado:</h4>
+  <h4>Linguagens:</h4>
   
   <div style="display: inline_block">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
