@@ -3,15 +3,16 @@
 👀 Explorando minhas paixões para descobrir minhas futuras especializações <br><br>
 🏀 Amante de esportes, amo jogar e acompanhar várias modalidades <br><br>
 ⚖️ Fascinada por leis, sempre curiosa sobre como elas moldam nossa sociedade <br><br>
-🧪 Apaixonada por exatas, onde a lógica e a precisão são fundamentais
+🧪 Apaixonada por ciências exatas, onde a lógica e a precisão são fundamentais
 <br>
 <br>
-
 
  <div>
     <a href="https://github.com/laisarafaella">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisarafaella&layout=compact&langs_count=16&theme=dark"/>
   </div>
+
+  <h3>🚀 Skills</h3>
   
   <h4>Linguagens:</h4>
   
@@ -60,5 +61,6 @@
  
   <div style="display: inline_block">
   <a href="https://www.instagram.com/laisarafaella/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/laisarafaella/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"target="_blank"</a> 
+  <a href="https://www.linkedin.com/in/laisarafaella/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"target="_blank"</a>
+   <a href="http://laisarafaelladias@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank""></a>
   </div>
