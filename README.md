@@ -2,11 +2,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22779C&width=435&lines=%F0%9F%92%99+Welcome+to+my+Profile;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+I+am+a+Student;%F0%9F%8C%8E+I+live+in+Minas+Gerais%2C+Brazil;%F0%9F%A7%A9+Solving+puzzles+through+code;%F0%9F%9A%80+Always+learning+and+growing;%F0%9F%A7%A0+Curious+and+rational+mind" alt="Typing SVG" /></a>
 
-🌱 Técnica em Informática <br><br>
-👀 Explorando minhas paixões para descobrir minhas futuras especializações <br><br>
-🏀 Amante de esportes, amo jogar e acompanhar várias modalidades <br><br>
-⚖️ Fascinada por leis, sempre curiosa sobre como elas moldam nossa sociedade <br><br>
-🧪 Apaixonada por ciências exatas, onde a lógica e a precisão são fundamentais
+🌱 Técnica em Informática <br>
+🧪 Lógica e ciências exatas <br>
+⚖️ Direito e impacto social<br>
+🏀 Esporte, disciplina e constância <br>
+👀 Em desenvolvimento profissional
 <br>
 <br>
 
@@ -14,6 +14,7 @@
     <a href="https://github.com/laisarafaella">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisarafaella&layout=compact&langs_count=16&theme=dark"/>
   </div>
+  
 
   <h3>🚀 Skills</h3>
   
